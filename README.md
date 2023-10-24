@@ -1,0 +1,2 @@
+# Muchomorek
+Projekt muchomorek, git
